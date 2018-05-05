@@ -1,0 +1,44 @@
+{
+  "name": "myapp-start",
+  "version": "1.0.0",
+  "description": "workflow de inicio de proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BermudezK/myapp-start.git"
+  },
+  "keywords": [
+    "gulp",
+    "pug",
+    "sass",
+    "scss",
+    "typescript",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Bermúdez, Karina Soledad",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/BermudezK/myapp-start/issues"
+  },
+  "homepage": "https://github.com/BermudezK/myapp-start#readme"
+}
